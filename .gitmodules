@@ -1,0 +1,3 @@
+[submodule "ppc"]
+	path = ppc
+	url = https://github.com/LucaseZLu/STD2.git
